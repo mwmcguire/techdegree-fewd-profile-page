@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #464458;
+  background: #012230;
 }
 /* Link Styles */
 
@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: #02090b;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -149,6 +149,7 @@ footer {
 footer .copyright {
   top: -8px;
   font-size: .75em;
+  color: white;
 }
 
 footer ul {
@@ -165,10 +166,10 @@ a.social {
   display: inline-block;
   text-indent: -9999px;
   margin-left: 5px;
-  width: 30px;
-  height: 30px;
-  background-size: 30px 30px;
-  opacity: .6;
+  width: 40px;
+  height: 40px;
+  background-size: 40px 40px;
+  opacity: .8;
   transition: all .5s;
 }
 a.twitter {
